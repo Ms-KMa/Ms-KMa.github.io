@@ -1,0 +1,25 @@
+body{
+	background-color:magenta;
+}
+
+h1{
+	color:white; font-family:Arial; font-size:40px;
+}
+h2{
+	color:white; font-family:Verdana;
+}
+h3{
+	color:navy; font-size:24px;
+}
+p{
+	color:white; font-size:20px; font-family:Arial;
+}
+table{
+	font-size:22px; font-family:Verdana;
+	padding: 20px;
+	margin-top: 40px;
+
+form{
+	font-family:Arial
+}
+
